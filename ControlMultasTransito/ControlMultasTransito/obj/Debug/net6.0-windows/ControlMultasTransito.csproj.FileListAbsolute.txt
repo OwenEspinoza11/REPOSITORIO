@@ -1,0 +1,17 @@
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\bin\Debug\net6.0-windows\ControlMultasTransito.exe
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\bin\Debug\net6.0-windows\ControlMultasTransito.deps.json
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\bin\Debug\net6.0-windows\ControlMultasTransito.runtimeconfig.json
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\bin\Debug\net6.0-windows\ControlMultasTransito.dll
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\bin\Debug\net6.0-windows\ControlMultasTransito.pdb
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.csproj.AssemblyReference.cache
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.FmrMultas.resources
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.csproj.GenerateResource.cache
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.AssemblyInfoInputs.cache
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.AssemblyInfo.cs
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.dll
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\refint\ControlMultasTransito.dll
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.pdb
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.genruntimeconfig.cache
+C:\Users\JADPA-08\source\repos\CSHARP-1M4IS\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ref\ControlMultasTransito.dll
