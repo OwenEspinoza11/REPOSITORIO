@@ -1,0 +1,17 @@
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\obj\Debug\net6.0-windows\pjControlRegistroEstacionamiento.csproj.AssemblyReference.cache
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\obj\Debug\net6.0-windows\pjControlRegistroEstacionamiento.frmEstacionamiento.resources
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\obj\Debug\net6.0-windows\pjControlRegistroEstacionamiento.csproj.GenerateResource.cache
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\obj\Debug\net6.0-windows\pjControlRegistroEstacionamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\obj\Debug\net6.0-windows\pjControlRegistroEstacionamiento.AssemblyInfoInputs.cache
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\obj\Debug\net6.0-windows\pjControlRegistroEstacionamiento.AssemblyInfo.cs
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\obj\Debug\net6.0-windows\pjControlRegistroEstacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\bin\Debug\net6.0-windows\pjControlRegistroEstacionamiento.exe
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\bin\Debug\net6.0-windows\pjControlRegistroEstacionamiento.deps.json
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\bin\Debug\net6.0-windows\pjControlRegistroEstacionamiento.runtimeconfig.json
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\bin\Debug\net6.0-windows\pjControlRegistroEstacionamiento.dll
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\bin\Debug\net6.0-windows\pjControlRegistroEstacionamiento.pdb
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\obj\Debug\net6.0-windows\pjControlRegistroEstacionamiento.dll
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\obj\Debug\net6.0-windows\refint\pjControlRegistroEstacionamiento.dll
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\obj\Debug\net6.0-windows\pjControlRegistroEstacionamiento.pdb
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\obj\Debug\net6.0-windows\pjControlRegistroEstacionamiento.genruntimeconfig.cache
+C:\Users\JADPA-08\source\repos\EstructurasDecision\pjControlRegistroEstacionamiento\obj\Debug\net6.0-windows\ref\pjControlRegistroEstacionamiento.dll
