@@ -1,0 +1,17 @@
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\obj\Debug\net6.0-windows\pjControlRegistroParticipante.csproj.AssemblyReference.cache
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\obj\Debug\net6.0-windows\pjControlRegistroParticipante.frmParticipantes.resources
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\obj\Debug\net6.0-windows\pjControlRegistroParticipante.csproj.GenerateResource.cache
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\obj\Debug\net6.0-windows\pjControlRegistroParticipante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\obj\Debug\net6.0-windows\pjControlRegistroParticipante.AssemblyInfoInputs.cache
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\obj\Debug\net6.0-windows\pjControlRegistroParticipante.AssemblyInfo.cs
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\obj\Debug\net6.0-windows\pjControlRegistroParticipante.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\bin\Debug\net6.0-windows\pjControlRegistroParticipante.exe
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\bin\Debug\net6.0-windows\pjControlRegistroParticipante.deps.json
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\bin\Debug\net6.0-windows\pjControlRegistroParticipante.runtimeconfig.json
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\bin\Debug\net6.0-windows\pjControlRegistroParticipante.dll
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\bin\Debug\net6.0-windows\pjControlRegistroParticipante.pdb
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\obj\Debug\net6.0-windows\pjControlRegistroParticipante.dll
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\obj\Debug\net6.0-windows\refint\pjControlRegistroParticipante.dll
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\obj\Debug\net6.0-windows\pjControlRegistroParticipante.pdb
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\obj\Debug\net6.0-windows\pjControlRegistroParticipante.genruntimeconfig.cache
+C:\Users\JADPA-08\source\repos\EstructurasRepeticion\pjControlRegistroParticipante\obj\Debug\net6.0-windows\ref\pjControlRegistroParticipante.dll
