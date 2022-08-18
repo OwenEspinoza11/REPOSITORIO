@@ -1,0 +1,5 @@
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\PruebaForEach\obj\Debug\net6.0\PruebaForEach.csproj.AssemblyReference.cache
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\PruebaForEach\obj\Debug\net6.0\PruebaForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\PruebaForEach\obj\Debug\net6.0\PruebaForEach.AssemblyInfoInputs.cache
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\PruebaForEach\obj\Debug\net6.0\PruebaForEach.AssemblyInfo.cs
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\PruebaForEach\obj\Debug\net6.0\PruebaForEach.csproj.CoreCompileInputs.cache

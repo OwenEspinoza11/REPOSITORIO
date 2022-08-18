@@ -1,0 +1,17 @@
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\obj\Debug\net6.0-windows\pjSegurosVida.csproj.AssemblyReference.cache
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\obj\Debug\net6.0-windows\pjSegurosVida.frmProforma.resources
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\obj\Debug\net6.0-windows\pjSegurosVida.csproj.GenerateResource.cache
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\obj\Debug\net6.0-windows\pjSegurosVida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\obj\Debug\net6.0-windows\pjSegurosVida.AssemblyInfoInputs.cache
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\obj\Debug\net6.0-windows\pjSegurosVida.AssemblyInfo.cs
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\obj\Debug\net6.0-windows\pjSegurosVida.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\bin\Debug\net6.0-windows\pjSegurosVida.exe
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\bin\Debug\net6.0-windows\pjSegurosVida.deps.json
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\bin\Debug\net6.0-windows\pjSegurosVida.runtimeconfig.json
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\bin\Debug\net6.0-windows\pjSegurosVida.dll
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\bin\Debug\net6.0-windows\pjSegurosVida.pdb
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\obj\Debug\net6.0-windows\pjSegurosVida.dll
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\obj\Debug\net6.0-windows\refint\pjSegurosVida.dll
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\obj\Debug\net6.0-windows\pjSegurosVida.pdb
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\obj\Debug\net6.0-windows\pjSegurosVida.genruntimeconfig.cache
+C:\Users\JADPA-22\source\repos\EstructuraRepeticion\pjSegurosVida\obj\Debug\net6.0-windows\ref\pjSegurosVida.dll
