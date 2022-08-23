@@ -1,0 +1,17 @@
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\obj\Debug\net6.0-windows\pjControlFacturas.csproj.AssemblyReference.cache
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\obj\Debug\net6.0-windows\pjControlFacturas.frmFacturas.resources
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\obj\Debug\net6.0-windows\pjControlFacturas.csproj.GenerateResource.cache
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\obj\Debug\net6.0-windows\pjControlFacturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\obj\Debug\net6.0-windows\pjControlFacturas.AssemblyInfoInputs.cache
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\obj\Debug\net6.0-windows\pjControlFacturas.AssemblyInfo.cs
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\obj\Debug\net6.0-windows\pjControlFacturas.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\bin\Debug\net6.0-windows\pjControlFacturas.exe
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\bin\Debug\net6.0-windows\pjControlFacturas.deps.json
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\bin\Debug\net6.0-windows\pjControlFacturas.runtimeconfig.json
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\bin\Debug\net6.0-windows\pjControlFacturas.dll
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\bin\Debug\net6.0-windows\pjControlFacturas.pdb
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\obj\Debug\net6.0-windows\pjControlFacturas.dll
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\obj\Debug\net6.0-windows\refint\pjControlFacturas.dll
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\obj\Debug\net6.0-windows\pjControlFacturas.pdb
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\obj\Debug\net6.0-windows\pjControlFacturas.genruntimeconfig.cache
+C:\Users\JADPA-08\source\repos\EstructuraRepeticion\pjControlFacturas\obj\Debug\net6.0-windows\ref\pjControlFacturas.dll
