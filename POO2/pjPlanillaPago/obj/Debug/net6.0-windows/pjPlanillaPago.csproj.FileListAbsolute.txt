@@ -1,0 +1,17 @@
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\bin\Debug\net6.0-windows\pjPlanillaPago.exe
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\bin\Debug\net6.0-windows\pjPlanillaPago.deps.json
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\bin\Debug\net6.0-windows\pjPlanillaPago.runtimeconfig.json
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\bin\Debug\net6.0-windows\pjPlanillaPago.dll
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\bin\Debug\net6.0-windows\pjPlanillaPago.pdb
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\obj\Debug\net6.0-windows\pjPlanillaPago.csproj.AssemblyReference.cache
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\obj\Debug\net6.0-windows\pjPlanillaPago.frmPlanilla.resources
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\obj\Debug\net6.0-windows\pjPlanillaPago.csproj.GenerateResource.cache
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\obj\Debug\net6.0-windows\pjPlanillaPago.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\obj\Debug\net6.0-windows\pjPlanillaPago.AssemblyInfoInputs.cache
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\obj\Debug\net6.0-windows\pjPlanillaPago.AssemblyInfo.cs
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\obj\Debug\net6.0-windows\pjPlanillaPago.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\obj\Debug\net6.0-windows\pjPlanillaPago.dll
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\obj\Debug\net6.0-windows\refint\pjPlanillaPago.dll
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\obj\Debug\net6.0-windows\pjPlanillaPago.pdb
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\obj\Debug\net6.0-windows\pjPlanillaPago.genruntimeconfig.cache
+C:\Users\JADPA-28\source\repos\POO2\pjPlanillaPago\obj\Debug\net6.0-windows\ref\pjPlanillaPago.dll
