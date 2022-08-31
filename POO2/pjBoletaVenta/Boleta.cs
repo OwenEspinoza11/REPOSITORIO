@@ -37,7 +37,9 @@ namespace pjBoletaVenta
             else if (descriProducto == "PS4 (1TB) + 1 MANDO DS4")
                 return 619 * cantidad;
             else if (descriProducto == "MANDO PS5/DS5")
-                return 69 * cantidad;
+                return 69 * cantidad; 
+            else if (descriProducto == "MANDO PS4/DS4")
+                return 60 * cantidad;
             return 0;
         }
     }

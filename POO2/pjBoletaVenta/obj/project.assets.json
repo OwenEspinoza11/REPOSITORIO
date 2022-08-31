@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\JADPA-28\\.nuget\\packages\\": {}
+    "C:\\Users\\espin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JADPA-28\\source\\repos\\POO2\\pjBoletaVenta\\pjBoletaVenta.csproj",
+      "projectUniqueName": "C:\\Users\\espin\\Source\\Repos\\REPOSITORIO\\POO2\\pjBoletaVenta\\pjBoletaVenta.csproj",
       "projectName": "pjBoletaVenta",
-      "projectPath": "C:\\Users\\JADPA-28\\source\\repos\\POO2\\pjBoletaVenta\\pjBoletaVenta.csproj",
-      "packagesPath": "C:\\Users\\JADPA-28\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JADPA-28\\source\\repos\\POO2\\pjBoletaVenta\\obj\\",
+      "projectPath": "C:\\Users\\espin\\Source\\Repos\\REPOSITORIO\\POO2\\pjBoletaVenta\\pjBoletaVenta.csproj",
+      "packagesPath": "C:\\Users\\espin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\espin\\Source\\Repos\\REPOSITORIO\\POO2\\pjBoletaVenta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\JADPA-28\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\espin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
